@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Fichas de aprendizaje para ciencia de datos 
 
 You can use the [editor on GitHub](https://github.com/mariaf494/cool-ds/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
